@@ -1,0 +1,4 @@
+transformers
+torch
+torchvision
+psycopg2
